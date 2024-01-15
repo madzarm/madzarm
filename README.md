@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/madzarm">
-  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&theme=gradient&show_icons=true&hide=stars&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&show_icons=true&hide=stars&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/madzarm">
-  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&theme=gradient" />
+  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-[![Maksim's WakaTime stats](https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Maksim's WakaTime stats](https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
