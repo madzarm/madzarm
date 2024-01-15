@@ -16,7 +16,7 @@
   <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" />
 </a>
 
-<a href="https://github.com/madzarm"><img height=200 align="center" src="https://streak-stats.demolab.com?user=madzarm&background=45%2CAAFFB891%2C30A14E&hide_total_contributions=true" alt="GitHub Streak" /></a>
-<a href="https://github.com/madzarm"><img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="GitHub Streak" /></a>
+<a href="https://github.com/madzarm"><img height=150 align="center" src="https://streak-stats.demolab.com?user=madzarm&background=45%2CAAFFB891%2C30A14E&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/madzarm"><img height=150 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="GitHub Streak" /></a>
 
 
