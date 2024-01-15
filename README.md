@@ -10,7 +10,7 @@
 </div>
 
 <a href="https://github.com/madzarm">
-  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&show_icons=true&hide=stars&rank_icon=github&bg_color=45,2CAAFFB891,2C30A14E&title_color=fff&text_color=fff&icon_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&show_icons=true&hide=stars&rank_icon=github&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/madzarm">
   <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
