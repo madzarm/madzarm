@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Maksim's GitHub stats](https://github-readme-stats-six-iota-52.vercel.app/api?username=madzarm)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Maksim's Github Stats" src="https://github-readme-stats-six-iota-52.vercel.app/api?username=madzarm" />
-</details>
+[![Maksim's GitHub stats](https://github-readme-stats-six-iota-52.vercel.app/api?username=madzarm\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
