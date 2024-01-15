@@ -10,7 +10,7 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td valign="top">
       <a href="https://github.com/madzarm">
