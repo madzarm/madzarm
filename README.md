@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <a href="https://github.com/madzarm">
   <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&show_icons=true&hide=stars&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
