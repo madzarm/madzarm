@@ -10,20 +10,23 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/madzarm" style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&show_icons=true&hide=stars&rank_icon=github&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/madzarm" style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Top Languages" />
-  </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/madzarm" style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://streak-stats.demolab.com?user=madzarm&currStreakNum=EC7B00&currStreakLabel=EB5454&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_total_contributions=true&background=45%2CAAFFB891%2C30A14E" alt="GitHub Streak" />
-  </a
-  <a href="https://github.com/madzarm" style="flex: 1; min-width: 300px; margin: 10px;">
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/madzarm">
+        <img src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&show_icons=true&hide=stars&rank_icon=github&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/madzarm">
+        <img src="https://streak-stats.demolab.com?user=madzarm&currStreakNum=EC7B00&currStreakLabel=EB5454&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_total_contributions=true&background=45%2CAAFFB891%2C30A14E" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/madzarm">
+        <img src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Top Languages" />
+      </a>
+      <a href="https://github.com/madzarm">
     <img src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Wakatime Stats" />
   </a>
-</div>
+</td>
+  </tr>
+</table>
