@@ -18,7 +18,6 @@
 
 <a href="https://github.com/madzarm"><img src="https://streak-stats.demolab.com?user=madzarm&currStreakNum=EC7B00&currStreakLabel=EB5454&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_total_contributions=true&background=45%2CAAFFB891%2C30A14E" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/madzarm"><img height=150 align="center" src="https://streak-stats.demolab.com?user=madzarm&background=45%2CAAFFB891%2C30A14E&hide_total_contributions=true" alt="GitHub Streak" /></a>
 <a href="https://github.com/madzarm"><img height=150 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="GitHub Streak" /></a>
 
 
