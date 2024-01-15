@@ -2,10 +2,10 @@
   <a href="https://github.com/madzarm"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=4000&center=true&pause=1000&color=40c463&vCenter=true&random=false&width=435&lines=Maksim+Mad%C5%BEar;Software+Developer;Computer+Science+Student;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/madzarm/madzarm/blob/main/resources/about_me.gif" width = 50px></picture> **About me**
 
 <div align="center">
-  <img  src="https://github.com/madzarm/madzarm/blob/main/resources/about_me.gif" />
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
