@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm&include_all_commits=true&theme=radical&show_icons=true&hide=stars&rank_icon=github" />
 </a>
 <a href="https://github.com/madzarm">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm" />
 </a>
 
 [![Maksim's GitHub stats](https://github-readme-stats-5nmg.vercel.app/api?username=madzarm\&include_all_commits=true&theme=radical&show_icons=true&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
