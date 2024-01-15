@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Maksim's GitHub stats](https://github-readme-stats-5nmg.vercel.app/api?username=madzarm\&include_all_commits=true&theme=radical&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madzarm)](https://github.com/anuraghazra/github-readme-stats)
+
