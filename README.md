@@ -22,11 +22,11 @@
     </td>
     <td valign="top">
       <a href="https://github.com/madzarm">
-        <img src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=320&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff&card_width=200" alt="Top Languages" />
+        <img src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=495&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Top Languages" />
       </a>
       <a href="https://github.com/madzarm">
-    <img src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Wakatime Stats" />
-  </a>
+        <img src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Wakatime Stats" />
+      </a>
 </td>
   </tr>
 </table>
