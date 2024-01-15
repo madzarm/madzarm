@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/madzarm">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-5nmg.vercel.app/api?username=madzarm\&include_all_commits=true&theme=radical&show_icons=true&hide=stars&rank_icon=github)" />
+  <img height=200 align="center" src="https://github-readme-stats-5nmg.vercel.app/api?username=madzarm\&include_all_commits=true&theme=radical&show_icons=true&hide=stars&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
