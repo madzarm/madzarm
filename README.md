@@ -25,7 +25,7 @@
         <img src="https://github-readme-stats-5nmg.vercel.app/api/top-langs/?username=madzarm&card_width=495&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Top Languages" />
       </a>
       <a href="https://github.com/madzarm">
-        <img src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&custom_title=This%20Year's%20Stats%20(2024)&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Wakatime Stats" />
+        <img src="https://github-readme-stats-5nmg.vercel.app/api/wakatime?username=madzarmaksim&custom_title=Last%7%20days&bg_color=45,9be9a8,30a14e&title_color=fff&text_color=fff" alt="Wakatime Stats" />
       </a>
 </td>
   </tr>
