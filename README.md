@@ -7,7 +7,7 @@
 ## <picture><img src="https://github.com/madzarm/madzarm/blob/main/resources/about_me.gif" width="50px"></picture> **About me**
 
 <div align="center">
-  <img src="https://github.com/madzarm/madzarm/tree/main/resources/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
 </div>
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid transparent;">
