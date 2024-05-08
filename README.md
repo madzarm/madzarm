@@ -5,7 +5,7 @@
 </p>
 
 ## <picture><img src="https://github.com/madzarm/madzarm/blob/main/resources/about_me.gif" width="50px"></picture> **About me**
-
+![](https://komarev.com/ghpvc/?username=madzarm)
 <div align="center">
   <img src="https://github.com/madzarm/madzarm/blob/main/resources/grid-snake.svg" alt="snake">
 </div>
